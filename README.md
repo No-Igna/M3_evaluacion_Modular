@@ -24,7 +24,7 @@ Permite agregar, editar y eliminar productos, además de calcular automáticamen
 
 ---
 
-## 🛠 Cómo usar el proyecto
+## Cómo usar el proyecto
 
 1. Clonar o descargar el repositorio.
 2. Abrir el archivo `index.html` en el navegador.
@@ -33,7 +33,7 @@ Permite agregar, editar y eliminar productos, además de calcular automáticamen
 
 ---
 
-## 📊 Lógica principal
+## Lógica principal
 
 El sistema funciona mediante:
 
